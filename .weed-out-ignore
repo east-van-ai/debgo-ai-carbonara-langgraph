@@ -1,0 +1,10 @@
+# for orphan release on GitHub
+
+.git/
+.gitignore
+.weed-out-ignore
+LICENSE
+carbonara.py
+README.md
+requirements-pinned.txt
+requirements.txt
